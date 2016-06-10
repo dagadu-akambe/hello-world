@@ -1,2 +1,2 @@
 # hello-world
-hello world test repository
+Very nice and helpful tutorials.
